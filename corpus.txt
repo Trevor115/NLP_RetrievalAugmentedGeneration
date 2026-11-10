@@ -1,0 +1,9 @@
+Retrieval-augmented generation, or RAG, combines document retrieval with language generation. A system first retrieves relevant documents and then uses them to produce a grounded answer.
+
+TF-IDF stands for term frequency-inverse document frequency. It helps identify which words are important in a document relative to a larger collection.
+
+Language models sometimes hallucinate by producing answers that sound reasonable but are not supported by facts. This happens because they rely on learned patterns rather than verified sources.
+
+Dense retrieval uses embeddings instead of word-count vectors. It can help address vocabulary mismatch by finding semantically similar documents.
+
+Cosine similarity measures how similar two vectors are. In information retrieval, it is commonly used to compare a query vector with document vectors.
